@@ -21,3 +21,21 @@
 - Banco de dados / SQL: Um conhecimento básico sobre criação e busca de dados usando SQL já o suficiente, embora esse tópico também seja como o anterior, quanto mais você souber melhor;
 - git: não nos aprofundaremos nesse tópico durante o curso, mas usaremos operações básicas de git (como commit e push);
 - docker: também não nos aprofundaremos nesse tópico e ele só será abordado nas aulas finais. Mas, também, só usaremos comandos básicos de docker e docker-compose.
+
+# 08/10/2024 - FASTAPI - Nivelamento Python Funções - DAY 2
+
+![alt text](image-4.png)
+
+![alt text](image-5.png)
+
+![alt text](image-6.png)
+
+![alt text](image-7.png)
+
+![alt text](image-8.png)
+
+![alt text](image-9.png)
+
+![alt text](image-10.png)
+
+![alt text](image-11.png)
