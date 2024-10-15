@@ -59,3 +59,5 @@
 ![alt text](images/image-20.png)
 
 ![alt text](images/image-21.png)
+
+# 16/10/2024 - FASTAPI - Nivelamento Python Funções - DAY 3
