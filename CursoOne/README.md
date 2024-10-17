@@ -1,4 +1,4 @@
-# 15/10/2024 - FASTAPI - O QUE VAMOS APRENDER - DAY 1
+# 17/10/2024 - FASTAPI - O QUE VAMOS APRENDER - DAY 1
 
 **O que é FastAPI?**
 - FastAPI é um framework Python moderno, projetado para simplicidade, velocidade e eficiência. A combinação de diversas funcionalidades modernas do Python como anotações de tipo e suporte a concorrência, facilitando o desenvolvimento de APIs.
@@ -22,7 +22,7 @@
 - git: não nos aprofundaremos nesse tópico durante o curso, mas usaremos operações básicas de git (como commit e push);
 - docker: também não nos aprofundaremos nesse tópico e ele só será abordado nas aulas finais. Mas, também, só usaremos comandos básicos de docker e docker-compose.
 
-# 16/10/2024 - FASTAPI - Nivelamento Python Funções - DAY 2
+# 18/10/2024 - FASTAPI - Nivelamento Python Funções - DAY 2
 
 ![alt text](images/image-4.png)
 
@@ -60,4 +60,4 @@
 
 ![alt text](images/image-21.png)
 
-# 17/10/2024 - FASTAPI - Nivelamento Python Funções - DAY 3
+# 19/10/2024 - FASTAPI - Nivelamento Python Funções - DAY 3
