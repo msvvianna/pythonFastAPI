@@ -1,4 +1,4 @@
-# 03/12/2024 - FASTAPI UDEMY - O QUE VAMOS APRENDER - DAY 1
+# 17/12/2024 - FASTAPI UDEMY - O QUE VAMOS APRENDER - DAY 1
 
 ## SEÇÃO 1: Apresentação
 
@@ -39,7 +39,7 @@ Uma API é chamada de **RESTful** quando segue os princípios e restrições do 
 ![alt text](images/image-8.png)
 ![alt text](images/image-9.png)
 
-# 04/12/2024 - FASTAPI UDEMY - O QUE VAMOS APRENDER - DAY 2
+# 17/12/2024 - FASTAPI UDEMY - O QUE VAMOS APRENDER - DAY 2
 
 ### 5. Apresentando FastAPI
 
